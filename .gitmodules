@@ -1,0 +1,3 @@
+[submodule "reference/react-quickly"]
+	path = reference/react-quickly
+	url = https://github.com/azat-co/react-quickly
